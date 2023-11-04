@@ -1,0 +1,54 @@
+#one{
+    text-align: left;
+    font-family: constantia ;
+    color: purple;
+}
+#try_free{
+    border: 2px solid black;
+    text-decoration: none;
+}
+#try_free:hover{
+    background-color: azure;
+}
+.content:hover{
+    background-color: lightcyan;
+    text-decoration: none;
+    border-radius: 3px;
+}
+p,pre{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2::first-letter{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.team{
+    border: 3px;
+    width: 300px;
+    margin-left:70px ;
+    margin-top: 70px;
+    padding-left: 60px;
+}
+#ceo{
+    margin-left: 150px;
+}
+a:link{
+    color: navy;
+}
+a:visited{
+    color:rgb(76, 1, 76);
+}
+a:active{
+    color: firebrick;
+}
